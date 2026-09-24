@@ -3,6 +3,7 @@
 Built in September 2026 during a long-form jam between cre0 and Codex.
 
 [the complete artwork](https://github.com/strandar/accountables-received)
+
 [the user experience](https://accountables.cre0.org)
 
 The browser recruits each visitor into altering the interface through which their work is interpreted. Its governing structure remains perceptible but unavailable as complete knowledge.
