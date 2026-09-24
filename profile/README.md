@@ -1,6 +1,6 @@
 ## [accountables received](https://github.com/strandar/accountables-received)
 
-*A browser and repository artwork about what becomes attributable after the outcome is already known.*
+*An inheritable meditation on what becomes attributable after the outcome is already known.*
 
 Built in September 2026 during a long-form jam between cre0 and Codex.
 
