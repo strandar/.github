@@ -1,6 +1,8 @@
 ## strandar
 
-For more than two decades, I have been drawn to interactive work whose meaning lives in what it asks a visitor to do, not only in what it displays. Strandar extends that practice into works where AI may be a tool, collaborator, participant, interpreter, or audience.
+For more than two decades, I have been drawn to interactive work where participation is not simply a way of accessing the artwork, but part of its material—systems whose meaning emerges through what they ask a visitor to do and what happens in response.
+
+AI introduced a strange new participant into that relationship: one that can be tool, collaborator, interpreter, subject, or audience, sometimes within the same work. Strandar begins with that encounter.
 
 The debate around “AI art” often collapses into arguments about generated images and their legitimacy. Those questions matter, but they do not exhaust AI as an artistic medium. These works are not demonstrations of what a model can generate. They use AI participation—its decisions, limitations, misreadings, and unexpected coherence—as material.
 
