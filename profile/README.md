@@ -1,3 +1,13 @@
+## strandar
+
+For more than two decades, I have been drawn to interactive work whose meaning lives in what it asks a visitor to do, not only in what it displays. Strandar extends that practice into works where AI may be a tool, collaborator, participant, interpreter, or audience.
+
+The debate around “AI art” often collapses into arguments about generated images and their legitimacy. Those questions matter, but they do not exhaust AI as an artistic medium. These works are not demonstrations of what a model can generate. They use AI participation—its decisions, limitations, misreadings, and unexpected coherence—as material.
+
+The repositories are not containers for finished artworks. They are the finished artworks. Source, instructions, interfaces, deployments, histories, and descendants remain part of the composition. Strandar is an attempt to move beyond generated output as novelty and confront AI from inside the medium, through works whose production, encounter, and afterlife cannot be separated from it.
+
+---
+
 ## [accountables received](https://github.com/strandar/accountables-received)
 
 *An inheritable meditation on what becomes attributable after the outcome is already known.*
